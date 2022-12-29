@@ -11,7 +11,7 @@ enter a tag name,
 
 then enter a text and to close the tag enter "." (a dot without ""),
 
-if you didn't enter a tag name, the default tag is <p>
+if you didn't enter a tag name, the default tag is paragraph
 
 https://user-images.githubusercontent.com/102380881/210008913-c9bb28c3-c329-44e9-9ecf-e666611c543c.mp4
 
